@@ -1,0 +1,216 @@
+.img-center{
+    width: 250px;
+    display: block;
+    margin: 0 auto;
+}
+
+
+.nav-head{
+	background-color: none;
+}
+
+
+header{
+	background:url(../img/hp.jpg)no-repeat center top #10101094;
+	background-size: cover;
+	background-blend-mode: multiply;
+	padding: 25px 0;
+}
+
+
+.nav-link{
+	color: #fff;
+}
+
+
+.banner-content{
+padding: 120px 0;
+}
+
+
+.banner-content h2{
+	background-color: #1010103b;
+	font-size: 20px;
+	color: #fff;
+	width: 50%;
+	padding: 7px 18px;
+    margin-bottom: 59px;
+
+}
+.banner-content p{
+	color: #fff;
+	margin-bottom: 47px;
+}
+.banner-content span{
+	border-bottom: 2px solid #fff;
+	display: block;
+	width: 30px;
+    margin-bottom: 50px;
+
+}
+.btn-one{
+background: transparent;
+border: 2px solid #fff;
+color: #fff;
+padding: 5px 49px;
+}
+
+
+
+
+
+
+.welcome-car{
+	background-color: #f6f6f6;
+	width: 100%;
+	float: left;
+	padding-top: 185px;
+	padding-bottom: 50px;
+}
+.car-image{
+position: relative;
+}
+.img-car{
+    position: absolute;
+    top: -50px;
+}
+
+
+
+
+
+.car-title{
+	background-color: #28282e;
+	
+	width: 100%;
+	float: left;
+}
+.title-content{
+ padding-top: 150px;
+}
+.title-content h2{
+	color: #fff;
+	text-align: left;
+}
+.title-content p{
+	color: #fff;
+	text-align:left;
+}
+.title-content span{
+	border-bottom: 2px solid #fff;
+	display: block;
+	width: 30px;
+    margin-bottom: 50px;
+
+}
+.car-content{
+	left: 84px;
+}
+.car-img2{
+	padding: 200px 0;
+}
+
+
+
+
+
+.footerBar{
+
+	width: 100%;
+	float: left;
+    background-color: #ef4035;
+   
+}
+
+.copyright_text{
+	color: white;
+	text-align: center;
+	padding: 50px;
+}
+
+header.about_header{
+    padding: 25px 0;
+    background: none;
+
+}
+a.nav-link.about {
+    color: #050571;
+}
+
+.aboutus_top {
+    background-color: #f6f6f6;
+    width: 100%;
+    float: left;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.about_img{
+
+}
+
+.contact_top {
+    background-color: #FF3334;
+    width: 100%;
+    float: left;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.contact_top h2{
+	color: white;
+	font-size: 50px;
+}
+.contact_top p {
+    color: white;
+    padding: 20px 0;
+    line-height: 25px;
+}
+
+.contact_img{
+	width: 500px;
+}
+.contact_form{
+	    margin: 10px 0px;
+}
+
+.footerBar{
+	background-color: #ef4035;
+}
+
+.con_div{
+	padding-left: 35px;
+}
+
+.labeltext{
+	color: white;
+}
+.contact-img{
+	width: 30px;
+}
+.contact-img1{
+	    width: 223px;
+	    margin: 45px 85px;
+}
+.form-control {
+   
+    background-color: #fff0;}
+}
+
+
+
+@media (min-width: 768.01px) and (max-width: 992px) {
+
+
+
+.navbar-toggler{
+
+    padding: .25rem 0.25rem;
+    font-size: 1.25rem;
+    line-height: 1;
+    background-color: #dce41d!important;
+    border: 1px solid transparent;
+    border-radius: 50%;
+}
+
+}
